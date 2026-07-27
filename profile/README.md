@@ -10,7 +10,7 @@ This organization hosts open-source research and implementations related to acti
 
 ## Public Repositories
 
-### ANC_algorithm
+### [ANC_algorithm](https://github.com/ANC-Research/ANC_algorithm)
 
 General implementations and demonstrations of active noise control algorithms.
 
