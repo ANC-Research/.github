@@ -18,6 +18,10 @@ General implementations and demonstrations of active noise control algorithms.
 
 Asynchronous communication distributed multichannel active noise control with event-triggered communication, WCFxLMS, and mixed weight-difference fusion.
 
+### [IC-DMCANC-CPA](https://github.com/ANC-Research/IC-DMCANC-CPA)
+
+Distributed multichannel active noise control with intermittent communication and coprocessor-assisted data combination for communication-efficient implementation.
+
 ## About
 
 The repositories in this public profile contain openly available research code, documentation, and reproducible examples related to active noise control.
