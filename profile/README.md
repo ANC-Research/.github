@@ -5,6 +5,7 @@ This organization hosts open-source research and implementations related to acti
 ## Public Research Areas
 
 * Active noise control algorithms
+* Output-constrained active noise control
 * Distributed multichannel active noise control
 * Simulation and implementation tools for ANC research
 
@@ -13,6 +14,10 @@ This organization hosts open-source research and implementations related to acti
 ### [ANC_algorithm](https://github.com/ANC-Research/ANC_algorithm)
 
 General implementations and demonstrations of active noise control algorithms.
+
+### [PriPathEst_MOVFxLMS_ANC](https://github.com/ANC-Research/PriPathEst_MOVFxLMS_ANC)
+
+Output-constrained active noise control using an improved MOV-FxLMS algorithm with an optimal time-varying penalty-factor estimate to address actuator output saturation.
 
 ### [ACDMCANC](https://github.com/ANC-Research/ACDMCANC)
 
