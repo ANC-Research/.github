@@ -14,9 +14,9 @@ This organization hosts open-source research and implementations related to acti
 
 General implementations and demonstrations of active noise control algorithms.
 
-### Distributed_ANC
+### [ACDMCANC](https://github.com/ANC-Research/ACDMCANC)
 
-Published research code and implementations for distributed multichannel active noise control.
+Asynchronous communication distributed multichannel active noise control with event-triggered communication, WCFxLMS, and mixed weight-difference fusion.
 
 ## About
 
