@@ -21,3 +21,7 @@ Published research code and implementations for distributed multichannel active 
 ## About
 
 The repositories in this public profile contain openly available research code, documentation, and reproducible examples related to active noise control.
+
+## Repository Overview
+
+See [anc-overview](../anc-overview) for the public repository map and documentation.
